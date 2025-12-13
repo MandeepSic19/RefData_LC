@@ -5,12 +5,8 @@ The 3D point cloud data for each target distance were captured using the UTM-30L
 
 Plane segmentation was applied to extract the target plane, followed by min–max bounding box computation and corner detection to determine the target **Height** and **Width**.
 
----
-
 ### **Sample Images**
 Representative sample images illustrating the captured point clouds and the corresponding Height and Width measurements are provided in the `figures/` folder. These images offer a qualitative overview of the dataset and the measurement workflow.
-
----
 
 ### **Data Availability**
 The raw `.pcd` files and associated scripts are available upon request.  
@@ -22,17 +18,11 @@ Upon approval:
 
 Please note that data sharing is subject to approval and may take some time.
 
----
-
 ### **Usage Disclaimer**
 This dataset is provided **for academic and research purposes only** and must **not be used for commercial applications**.
 
----
-
 ### **Reproducibility and Workflow**
 All preprocessing steps, software details, and filter parameters required to reproduce the results are documented in the `rqt/` folder.
-
----
 
 ### **Citation**
 If you use this dataset in your work, please cite the following paper:
