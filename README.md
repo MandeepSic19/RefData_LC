@@ -51,9 +51,9 @@ This diagram represents the calibration and optimization workflow and can be use
 
 ## Data Availability
 
-The raw `.pcd` files and associated scripts are available **upon request**.
+The all `.pcd` files and associated scripts are available **upon request**.
 
-Interested researchers may submit a request using the Google Form: `https://forms.gle/7GKQZj3UFonACS1w7`
+Interested researchers may submit a request using the Google Form (https://forms.gle/7GKQZj3UFonACS1w7).
 
 Upon approval:
 
