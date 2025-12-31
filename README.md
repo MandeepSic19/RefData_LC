@@ -16,19 +16,16 @@ Only sample `.pcd` files are included. Full dataset access is available upon req
 Sample images of point clouds and measurement outputs are available in `/figures/`.  
 For detailed experimental results and analysis, refer to the associated publication.
 
----
 ## Reproducibility Information
 The repository provides reference codes and sample data that are sufficient to reproduce the reported workflow and results.  
 - Sample file formats match the original dataset to enable reproduction of the pipeline.  
 - Hardware specifications, software details, and optimization parameters are documented in the associated publication.  
 - The methodology diagram archived on Zenodo supports reproducibility and authorship verification.
 
----
 ## Methodology Diagram
 The methodology diagram illustrates the calibration and optimization workflow and may be used alongside the reference code to reproduce the pipeline.  
 Zenodo DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
 
----
 ## Data Availability
 All `.pcd` files and associated scripts are available upon request. The reference code provided in this repository is sufficient to reproduce the workflow and satisfy reproducibility requirements.
 
@@ -40,7 +37,6 @@ Upon approval:
 
 Data sharing is subject to approval and may require processing time.
 
----
 ## License
 All Rights Reserved  
 Copyright (c) 2025 Mandeep Singh
@@ -52,7 +48,6 @@ Citation using the Zenodo DOIs is required for academic reference:
 
 The methodology diagram is also proprietary and subject to the same license.
 
----
 ## Citation
 If you use or reference this work (including the reference code, sample data, or methodology), cite the following:
 
