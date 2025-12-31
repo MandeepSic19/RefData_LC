@@ -2,20 +2,14 @@
 
 This repository provides a `.pcd` file and reference code (with reference values) that demonstrate the calibration and optimization workflow used in the associated research. The full dataset from the experiments contains proprietary information and is not publicly released. The materials provided here reflect the structure and format of the original dataset and are sufficient to reproduce the computational pipeline described in the manuscript.
 
-Archival identifiers for this repository and the methodology diagram are available on Zenodo:
-
-- **Repository DOI:** [https://doi.org/10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX)  
-- **Methodology Diagram DOI:** [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
-
 ## Overview
 This repository includes:
 - A `.pcd` file representing the dataset format used in the research  
 - MATLAB codes for  calibration, and optimization workflows  
 - Reference values for calibration parameters
+- Note:The program includes representative reference values in place of actual values to demonstrate reproducibility while preserving experimental confidentiality.
 
-These materials demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and preprocessing parameters are described in the associated manuscript.
-
-The full internal dataset can be requested from the author, subject to approval.
+These materials demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and preprocessing parameters are described in the associated manuscript. The full internal dataset can be requested from the author, subject to approval.
 
 ## Images and Outputs
 
